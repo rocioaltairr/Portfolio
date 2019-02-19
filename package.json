@@ -9,6 +9,8 @@
   "author": "Rocio",
   "license": "MIT",
   "dependencies": {
+    "install": "^0.12.2",
     "node-sass": "^4.11.0"
-  }
+  },
+  "devDependencies": {}
 }
